@@ -1,0 +1,2 @@
+# gomodtest
+test go module
